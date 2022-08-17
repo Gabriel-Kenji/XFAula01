@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RI2q77gWJkPIK587cPzblaypq4eYaIL/pRaOQO6mZDHb0F61B471Qjrt2olIqE1Fq1boBlgRVKisgFwmhXUy5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\FACUL\\PDM\\XFAula01\\XFAula01\\XFAula01.iOS\\XFAula01.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
